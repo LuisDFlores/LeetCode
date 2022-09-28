@@ -1,5 +1,5 @@
 # LeetCode Challenges
-A repository filled with coding Challenges. Not limited to any coding language or complexity.I want to expand and test myself in all the languages I know.
+A repository filled with coding Challenges. Not limited to any coding language.I want to expand and test myself in all the languages I know.
 
 ## How It's Made:
 
